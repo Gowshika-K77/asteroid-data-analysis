@@ -41,7 +41,7 @@ https://huggingface.co/GKvin/asteroid-model
 - Streamlit
 - Pandas
 - NumPy
-- Scikit-lear
+- Scikit-learn
 - Hugging Face Hub
 
 ---
