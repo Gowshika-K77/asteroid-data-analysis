@@ -57,20 +57,6 @@ asteroid-data-analysis/
 └── README.md
 ```
 
-Models are stored separately in the Hugging Face repository.
-
----
-
-## ⚙️ Installation
-
-### Clone the repository
-
-```bash
-git clone https://github.com/Gowshika-K77/asteroid-data-analysis.git
-
-cd asteroid-data-analysis
-```
-
 ## 📊 Machine Learning Models
 
 - **Diameter Prediction Model** — Random Forest Regressor
